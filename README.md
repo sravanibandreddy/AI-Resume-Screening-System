@@ -1,4 +1,9 @@
+## Live Demo (Local)
 
+Run the app locally:http://localhost:8501/
+
+```bash
+python -m streamlit run app.py
 # AI Resume Screening System
 
 The **AI Resume Screening System** is a machine learning-based web application that compares resumes with job descriptions and calculates a similarity score.
