@@ -1,3 +1,5 @@
+## Live Demo
+[Open the Application](https://ai-resume-screening-system.streamlit.app)
 # AI Resume Screening System
 
 The **AI Resume Screening System** is a machine learning-based web application that compares resumes with job descriptions and calculates a similarity score.
@@ -31,3 +33,16 @@ This project uses **Natural Language Processing (NLP)** techniques to analyze te
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. Run the Application
+
+```bash
+streamlit run app.py
+```
+
+### 3. Open in Browser
+
+After running the command, the application will open in your browser at:
+
+http://localhost:8501
