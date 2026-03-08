@@ -1,5 +1,4 @@
-## Live Demo
-[Open the Application](https://ai-resume-screening-system.streamlit.app)
+
 # AI Resume Screening System
 
 The **AI Resume Screening System** is a machine learning-based web application that compares resumes with job descriptions and calculates a similarity score.
